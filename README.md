@@ -16,5 +16,5 @@ A fun and automated Discord bot that tracks birthdays, sends celebratory message
 ### **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Nazal/discord-birthday-bot.git
-   cd discord-birthday-bot
+   git clone [https://github.com/Nazal/discord-birthday-bot.git
+   cd discord-birthday-bot](https://github.com/nazaldrax/Birthday-Bot)
