@@ -13,7 +13,7 @@ const client = new Client({
 });
 
 // Put your bot token directly here (replace with your actual token)
-const BOT_TOKEN = 'MTM4MDQ4MTk5Mzc3MDI3MDcyMA.GGGZ0B.Wz7B0VLETU2bjw0ahksEy8bE_11S_w-WEa43I4';
+const BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE';
 
 // File to store birthdays
 const BIRTHDAY_FILE = path.join(__dirname, 'birthdays.json');
